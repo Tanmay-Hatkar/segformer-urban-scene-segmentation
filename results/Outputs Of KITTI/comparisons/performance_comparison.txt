@@ -1,0 +1,19 @@
+# SegFormer Transfer Learning Performance Comparison
+
+## Overall Metrics
+
+| Metric | With Transfer Learning | From Scratch | Improvement |
+|--------|------------------------|--------------|-------------|
+| Mean Iou | 0.5342 | 0.5208 | +2.57% |
+| Pixel Accuracy | 0.9062 | 0.9005 | +0.64% |
+| Freq Weighted Iou | 0.8381 | 0.8297 | +1.00% |
+
+## Classes with Most Improvement
+
+| Class | With Transfer Learning | From Scratch | Improvement |
+|-------|------------------------|--------------|-------------|
+| Class 4 | 0.6476 | 0.4953 | +30.75% |
+| Class 2 | 0.5241 | 0.4800 | +9.18% |
+| Class 16 | 0.5824 | 0.5421 | +7.44% |
+| Class 8 | 0.6353 | 0.6039 | +5.19% |
+| Class 18 | 0.1143 | 0.1100 | +3.95% |

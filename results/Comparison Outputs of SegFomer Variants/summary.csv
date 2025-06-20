@@ -1,0 +1,4 @@
+Model,Parameters (M),Model Size (MB),Best Val Loss,Mean IoU (%),Inference Time (ms),GPU Memory (GB)
+B3,47.1,180.2,0.6197,77.9,25.3,4.2
+B4,64.1,244.7,0.6576,78.5,28.5,5.1
+B5,84.7,322.5,0.6291,82.4,32.8,6.3
