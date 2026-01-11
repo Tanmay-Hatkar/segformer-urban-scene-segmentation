@@ -185,7 +185,7 @@ FREEZE_ENCODER = False         # Set True to freeze encoder weights
 ## 🔬 Qualitative Results
 
 <p align="center">
-  <img src="results/qualitative_comparison.png" alt="Qualitative Results" width="800"/>
+  <img src="results/Outputs Of KITTI/segformer_b3_kitti_output_edited.png" alt="Qualitative Results" width="800"/>
 </p>
 
 *Top Row: Left to right - Original image followed by baseline prediction
