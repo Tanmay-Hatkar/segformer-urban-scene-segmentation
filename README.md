@@ -70,6 +70,7 @@ L_total = L_CE + 0.4 × L_IoU + 0.8 × L_boundary
 
 ---
 
+<!-- 
 ## 📁 Repository Structure
 
 ```
@@ -86,6 +87,7 @@ segformer-urban-segmentation/
 ├── requirements.txt
 └── README.md
 ```
+-->
 
 ---
 
