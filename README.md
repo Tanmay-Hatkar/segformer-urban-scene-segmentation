@@ -11,7 +11,7 @@
 Transformer-based semantic segmentation for autonomous driving with cross-dataset transfer learning. We evaluate SegFormer architectural variants (B3, B4, B5) on CamVid and demonstrate effective knowledge transfer from CamVid to KITTI, achieving **61.1% faster convergence** and up to **30.75% class-specific improvement**.
 
 <p align="center">
-  <img src="results/methodology.png" alt="Methodology" width="700"/>
+  <img src="results/methodology_draft.png" alt="Methodology" width="700"/>
 </p>
 
 ---
