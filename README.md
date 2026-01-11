@@ -42,7 +42,7 @@ Transformer-based semantic segmentation for autonomous driving with cross-datase
 | Bus | 54.21% | 58.24% | +7.44% |
 
 <p align="center">
-  <img src="results/class_iou_comparison.png" alt="Per-class IoU Comparison" width="600"/>
+  <img src="results/Outputs Of KITTI/comparisons/class_iou_comparison_named.png" alt="Per-class IoU Comparison" width="600"/>
 </p>
 
 ---
